@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:47.929824
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:51
 #+TITLE: 菩薩本生鬘論
 #+PROPERTY: CBETA_ID T03n0160
 #+PROPERTY: ID KR6b0012
