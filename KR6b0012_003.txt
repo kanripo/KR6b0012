@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 160
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6b0012_T_000-0331c>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0012_T_003-0338b> ¶¶¶¶¶
 #+PROPERTY: JUAN 3
@@ -307,7 +307,7 @@
 寄諸珍玩施佛及僧。
 
 時諸賈客各得還國，咸¶
-詣佛所稽首作禮，持彼海神所寄之物及己
+詣佛所[(禾*尤)/上/日]首作禮，持彼海神所寄之物及己
 <pb:KR6b0012_T_003-0341a>¶
 所施，長跪合掌白言：「世尊！幸蒙如來遙埀¶
 慈護，入海免難獲寶還家，咸荷佛恩，願為¶
