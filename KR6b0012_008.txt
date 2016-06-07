@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:47.929824
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:51
 #+TITLE: 菩薩本生鬘論
 #+PROPERTY: CBETA_ID T03n0160
 #+PROPERTY: ID KR6b0012
@@ -11,8 +11,7 @@
 #+PROPERTY: LASTPB <pb:KR6b0012_T_008-0354b> 
 #+PROPERTY: JUAN 8
 ¶
-
- 《菩薩本生鬘論》卷第八¶
+《菩薩本生鬘論》卷第八¶
 ¶
 聖勇菩薩等造¶
 宋朝散大夫試鴻臚少卿同譯經¶
